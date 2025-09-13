@@ -12,7 +12,7 @@ Though left anonymous, scholarship suggests the pilgrim may have been based on o
 
 **Why It Matters to Orthodox Spirituality**
 
-In Orthodox Christianity, the Jesus Prayer is more than a devotion—it is a transformative practice aimed at cultivating **theosis**, or union with God, by sanctifying the heart and uniting the mind with inner prayer ([Wikipedia][4]). By embedding prayer seamlessly into daily life, the practice brings about humility, repentance, and communion with the divine presence.
+In Orthodox Christianity, the Jesus Prayer is more than a devotion—it is a transformative practice aimed at cultivating **theosis**, or union with God, by sanctifying the heart and uniting the mind with inner prayer. By embedding prayer seamlessly into daily life, the practice brings about humility, repentance, and communion with the divine presence.
 
 This text, in particular, shepherds readers through the challenges, breakthroughs, and deepening of faith that come from persevering in prayer—making it not just a spiritual manual, but a lived experience.
 
@@ -30,3 +30,7 @@ The original source can be found here:
 
 Malankara Library:
 - https://share.google/Qc1BB1r9UBCSKxAYu
+
+
+[1]: https://en.wikipedia.org/wiki/The_Way_of_a_Pilgrim
+[2]: https://en.wikipedia.org/wiki/Jesus_Prayer
